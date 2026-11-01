@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 71,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-tomonori-0001",
@@ -1045,7 +1048,7 @@
   "blocks": 71,
   "chars": 1650,
   "poems": 71,
-  "yaku": 0,
+  "yaku": 71,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T00:09:37+09:00"
